@@ -3,8 +3,8 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositorios!!
 
-<a href="https://brunabto.github.io/html-css/exercícios/ex001/index.html">Executar exercício 01</a>
-<a href="https://brunabto.github.io/html-css/exercícios/ex001/index.html">Executar exercício 02</a>
+<a href="https://brunabto.github.io/html-css/exercícios/ex001/index.html">Executar exercício 01</a><hr>
+<a href="https://brunabto.github.io/html-css/exercícios/ex002/index.html">Executar exercício 02</a><hr>
 <a href="https://brunabto.github.io/html-css/exercícios/ex001/index.html">Executar exercício 03</a>
 <a href="https://brunabto.github.io/html-css/exercícios/ex001/index.html">Executar exercício 04</a>
 <a href="https://brunabto.github.io/html-css/exercícios/ex001/index.html">Executar exercício 05</a>
